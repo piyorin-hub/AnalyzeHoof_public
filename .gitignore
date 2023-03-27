@@ -1,0 +1,7 @@
+/3ddata/
+/demoData-used/
+*.stl
+*.asv
+.DS_Store
+*.fig
+/result/
